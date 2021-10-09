@@ -11,8 +11,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/black"
-        tools:text="asd"
-        android:textSize="20sp" />
+        tools:text="@string/asd"
+        android:textSize="@dimen/sp20" />
 
 
 </LinearLayout>
